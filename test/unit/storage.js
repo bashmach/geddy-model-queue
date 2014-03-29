@@ -1,4 +1,4 @@
-var assert = require("assert")
+var assert = require('chai').assert
   , fs = require("fs")
   , os = require("os")
   , QueueStorage = require("../../lib/queue/storage")

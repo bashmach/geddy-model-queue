@@ -9,6 +9,7 @@
     "model": "~0.5.8"
   },
   "devDependencies": {
-    "mocha": "latest"
+    "mocha": "latest",
+    "chai": "latest"
   }
 }
