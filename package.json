@@ -1,0 +1,14 @@
+{
+  "name": "geddy-model-queue",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bashmach/geddy-model-queue.git"
+  },
+  "dependencies": {
+    "model": "~0.5.8"
+  },
+  "devDependencies": {
+    "mocha": "latest"
+  }
+}
